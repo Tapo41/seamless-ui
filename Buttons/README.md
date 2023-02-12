@@ -1,4 +1,4 @@
-## Primary Button Preview
+## Primary Blue Button Preview
 
 <table>
   <tr>
@@ -66,7 +66,7 @@
   </tr>
 </table>
 
-## Secondary Button Preview
+## Secondary Blue Button Preview
 
 <table>
   <tr>
@@ -134,7 +134,98 @@
   </tr>
 </table>
 
-## Others
+ <table>
+  <tr>
+    <td width="50%">Text button</td>
+    <td width="50%">Rounded text button</td>
+    
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button.html">
+        <img src="https://live.staticflickr.com/65535/52684232314_03a7576b90_z.jpg" alt="1" border="0" />
+      </a>
+    </td>
+     
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button-rounded.html">
+        <img src="https://live.staticflickr.com/65535/52683442972_da66d6e78e_z.jpg" alt="2" border="0" />
+      </a>
+    </td>
+   
+    
+  </tr>
+ 
+## Primary Black Button Preview
+
+ 
+ <table>
+  <tr>
+    <td width="50%">Text button</td>
+    <td width="50%">Rounded text button</td>
+    
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button.html">
+        <img src="https://live.staticflickr.com/65535/52684251134_c926cfc4ae_z.jpg" alt="1" border="0" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button-rounded.html">
+        <img src="https://live.staticflickr.com/65535/52684461338_4224296220_z.jpg" alt="2" border="0" />
+      </a>
+    </td>
+   
+  </tr>
+## Secondary Black Button Preview
+
+ <table>
+  <tr>
+    <td width="50%">Text button</td>
+    <td width="50%">Rounded text button</td>
+    
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button.html">
+        <img src="https://live.staticflickr.com/65535/52683990991_a9564ba333_z.jpg" alt="1" border="0" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button.html">
+        <img src="https://live.staticflickr.com/65535/52684525423_64dde972bb_z.jpg" alt="2" border="0" />
+      </a>
+    </td>
+   
+  </tr>
+## Primary White Button Preview
+
+ <table>
+  <tr>
+    <td width="50%">Text button</td>
+    <td width="50%">Rounded text button</td>
+    
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button.html">
+        <img src="https://live.staticflickr.com/65535/52684265299_2e9d1710d9_z.jpg" alt="1" border="0" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Clueless-Community/seamless-ui/blob/main/Buttons/src/Primary/text-button.html">
+        <img src="https://live.staticflickr.com/65535/52684476893_24c278747b_z.jpg" alt="2" border="0" />
+      </a>
+    </td>
+    
+  </tr>
+
+## Secondary White Button Preview
 
 <table>
   <tr>
@@ -160,7 +251,7 @@
       </a>
     </td>
   </tr>
-
+## Others
   <tr>
     <td width="33.3333%">Processing Button</td>
     <td width="33.3333%">Login Social Button</td>
